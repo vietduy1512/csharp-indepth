@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Common", "1.Common\1.Common.csproj", "{ABCD9BD5-74D3-43FD-8BB5-0A176F574357}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Common", "1.Common\1.Common.csproj", "{ABCD9BD5-74D3-43FD-8BB5-0A176F574357}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ValueType.ReferenceType", "2.ValueType.ReferenceType\2.ValueType.ReferenceType.csproj", "{D09D954C-644D-4052-AE61-C45EB2B0F1BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.ValueType.ReferenceType", "2.ValueType.ReferenceType\2.ValueType.ReferenceType.csproj", "{D09D954C-644D-4052-AE61-C45EB2B0F1BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.AnonymousType", "3.AnonymousType\3.AnonymousType.csproj", "{B614E69F-E76E-4B70-931C-6CFEC8705F01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.AnonymousType", "3.AnonymousType\3.AnonymousType.csproj", "{B614E69F-E76E-4B70-931C-6CFEC8705F01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.DynamicType", "4.DynamicType\4.DynamicType.csproj", "{5D27E737-60B9-4CD0-87DB-BDCCD5CCA84B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.DynamicType", "4.DynamicType\4.DynamicType.csproj", "{5D27E737-60B9-4CD0-87DB-BDCCD5CCA84B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.StringBuilder", "5.StringBuilder\5.StringBuilder.csproj", "{3C8125AC-F20B-46B1-8239-018A6017C2D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.StringBuilder", "5.StringBuilder\5.StringBuilder.csproj", "{3C8125AC-F20B-46B1-8239-018A6017C2D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.PartialClass", "6.PartialClass\6.PartialClass.csproj", "{7DDEE1B1-DCC0-4001-8FDC-B035EB3CCA26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.PartialClass", "6.PartialClass\6.PartialClass.csproj", "{7DDEE1B1-DCC0-4001-8FDC-B035EB3CCA26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Static", "7.Static\7.Static.csproj", "{AEF2DA43-2391-4156-BBE9-AA1E4058A542}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.Static", "7.Static\7.Static.csproj", "{AEF2DA43-2391-4156-BBE9-AA1E4058A542}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.Array", "8.Array\8.Array.csproj", "{92D14E81-E967-4B59-9FD0-2CD03329B06F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{AEF2DA43-2391-4156-BBE9-AA1E4058A542}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEF2DA43-2391-4156-BBE9-AA1E4058A542}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEF2DA43-2391-4156-BBE9-AA1E4058A542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D14E81-E967-4B59-9FD0-2CD03329B06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D14E81-E967-4B59-9FD0-2CD03329B06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D14E81-E967-4B59-9FD0-2CD03329B06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D14E81-E967-4B59-9FD0-2CD03329B06F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
