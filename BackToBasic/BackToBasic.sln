@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.StringBuilder", "5.String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.PartialClass", "6.PartialClass\6.PartialClass.csproj", "{7DDEE1B1-DCC0-4001-8FDC-B035EB3CCA26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Static", "7.Static\7.Static.csproj", "{AEF2DA43-2391-4156-BBE9-AA1E4058A542}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7DDEE1B1-DCC0-4001-8FDC-B035EB3CCA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DDEE1B1-DCC0-4001-8FDC-B035EB3CCA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DDEE1B1-DCC0-4001-8FDC-B035EB3CCA26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF2DA43-2391-4156-BBE9-AA1E4058A542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF2DA43-2391-4156-BBE9-AA1E4058A542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF2DA43-2391-4156-BBE9-AA1E4058A542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF2DA43-2391-4156-BBE9-AA1E4058A542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
