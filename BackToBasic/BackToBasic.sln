@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.Indexer", "9.Indexer\9.In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Tuple", "10.Tuple\10.Tuple.csproj", "{E1F23C30-7D5C-4453-9580-5F1BE18269DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Collection", "11.Collection\11.Collection.csproj", "{E959F6F1-30F2-4A9D-9CDC-CF8A9E827081}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Collections", "11.Collection\11.Collections.csproj", "{E959F6F1-30F2-4A9D-9CDC-CF8A9E827081}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
