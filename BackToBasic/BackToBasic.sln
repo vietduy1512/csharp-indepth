@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.DynamicType", "4.DynamicT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.StringBuilder", "5.StringBuilder\5.StringBuilder.csproj", "{3C8125AC-F20B-46B1-8239-018A6017C2D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.PartialClass", "6.PartialClass\6.PartialClass.csproj", "{7DDEE1B1-DCC0-4001-8FDC-B035EB3CCA26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3C8125AC-F20B-46B1-8239-018A6017C2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C8125AC-F20B-46B1-8239-018A6017C2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C8125AC-F20B-46B1-8239-018A6017C2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DDEE1B1-DCC0-4001-8FDC-B035EB3CCA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDEE1B1-DCC0-4001-8FDC-B035EB3CCA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDEE1B1-DCC0-4001-8FDC-B035EB3CCA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDEE1B1-DCC0-4001-8FDC-B035EB3CCA26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
