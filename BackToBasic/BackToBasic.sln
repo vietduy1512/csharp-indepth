@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Delegates", "12.Delegate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Events", "13.Events\13.Events.csproj", "{B1A07908-8D4E-4FFC-A528-ED7B9E1012E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.AnonymousMethod", "14.AnonymousMethod\14.AnonymousMethod.csproj", "{0DEEBC73-4473-4DF6-A094-53E714383793}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{B1A07908-8D4E-4FFC-A528-ED7B9E1012E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1A07908-8D4E-4FFC-A528-ED7B9E1012E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1A07908-8D4E-4FFC-A528-ED7B9E1012E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DEEBC73-4473-4DF6-A094-53E714383793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEEBC73-4473-4DF6-A094-53E714383793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEEBC73-4473-4DF6-A094-53E714383793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEEBC73-4473-4DF6-A094-53E714383793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
