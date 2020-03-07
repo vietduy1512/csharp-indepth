@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _11.Exception
+namespace _11.Exceptions
 {
     class Program
     {
