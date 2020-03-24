@@ -9,6 +9,7 @@
 - String
 - Struct
 - DateTime
+- TimeSpan
 - Enum
 - Interface
 - Tuple (T1, T2)
@@ -26,7 +27,19 @@
 - Exception
 - Delegates, Events, Anonymous method, Func/Action/Predicate
 - LINQ
-- Nullable (int?), NullCoalescing (object1 ?? object2)
+- Ternary Operator (bool ? : )
+- Nullable (int?), Null Coalescing Operator (object1 ?? object2)
 - Extension Method
-- Object Initializer (new Object() { item = '' };)
+- Object Initializer + Collection Initializers (new Object() { item = '' };)
 - Stream, File
+- As Cast (object as Student)
+- Auto-Properties (prop {get; set;)
+- using Statements + dispose
+
+# Methods
+- string.IsNullOrEmpty()
+- string.Equals()
+
+# Optional
+- Stopwatch Class
+- 
