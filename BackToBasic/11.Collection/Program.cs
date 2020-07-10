@@ -8,7 +8,8 @@ namespace _11.Collections
         {
             // https://www.tutorialsteacher.com/csharp/csharp-collection
             // https://www.tutorialsteacher.com/csharp/csharp-generic-collections
-            // TBD
+
+            // Read more above
         }
     }
 }

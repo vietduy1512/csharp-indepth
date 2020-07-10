@@ -29,7 +29,8 @@ namespace _8.Array
             var names = new[] { "Steve", "Bill", "Ram", "Mohan" };
 
             // Array Methods
-            // TBD
+            var len = names.Length;
+            var clone = names.Clone();
         }
     }
 }

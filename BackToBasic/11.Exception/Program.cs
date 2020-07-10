@@ -11,7 +11,6 @@ namespace _11.Exceptions
             // throw
             // Custom Exception
 
-
             try
             {
                 // code that may raise exceptions

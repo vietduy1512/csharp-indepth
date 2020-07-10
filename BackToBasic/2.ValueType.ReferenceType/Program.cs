@@ -7,7 +7,17 @@ namespace _2.ValueType.ReferenceType
         static void Main(string[] args)
         {
             // https://www.tutorialsteacher.com/csharp/csharp-value-type-and-reference-type
-            // TBD
+
+            unsafe
+            {
+                // Value type: ...
+                // Reference type: String, Array, Class, Delegate
+
+                // * Pointer
+                int num = 3;
+                int* ptr = &num;
+                Console.WriteLine("{0}", (int)ptr);
+            }
 
             // 1. Value type stores the value in its memory space, whereas reference type stores the address of the value where it is stored.
             // 2. Primitive data types and struct are of the 'Value' type.Class objects, string, array, delegates are reference types.
