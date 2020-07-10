@@ -25,19 +25,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.Tuple", "10.Tuple\10.Tup
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Collections", "11.Collection\11.Collections.csproj", "{E959F6F1-30F2-4A9D-9CDC-CF8A9E827081}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Exception", "11.Exception\11.Exception.csproj", "{D09AA096-5156-461F-AD7C-F51CA2D40F57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Exception", "11.Exception\11.Exception.csproj", "{D09AA096-5156-461F-AD7C-F51CA2D40F57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Delegates", "12.Delegates\12.Delegates.csproj", "{8254CABE-267A-4C7D-BBE5-AF23B8E9193C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.Delegates", "12.Delegates\12.Delegates.csproj", "{8254CABE-267A-4C7D-BBE5-AF23B8E9193C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Events", "13.Events\13.Events.csproj", "{B1A07908-8D4E-4FFC-A528-ED7B9E1012E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.Events", "13.Events\13.Events.csproj", "{B1A07908-8D4E-4FFC-A528-ED7B9E1012E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.AnonymousMethod", "14.AnonymousMethod\14.AnonymousMethod.csproj", "{0DEEBC73-4473-4DF6-A094-53E714383793}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.AnonymousMethod", "14.AnonymousMethod\14.AnonymousMethod.csproj", "{0DEEBC73-4473-4DF6-A094-53E714383793}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Nullable.NullCoalescing", "15.Nullable.NullCoalescing\15.Nullable.NullCoalescing.csproj", "{5ADFAE96-BBFD-463F-AEB9-47B30C0E21F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.Nullable.NullCoalescing", "15.Nullable.NullCoalescing\15.Nullable.NullCoalescing.csproj", "{5ADFAE96-BBFD-463F-AEB9-47B30C0E21F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.LINQ", "16.LINQ\16.LINQ.csproj", "{D8C1E849-5466-4D5A-998F-B251450E15F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.LINQ", "16.LINQ\16.LINQ.csproj", "{D8C1E849-5466-4D5A-998F-B251450E15F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.Func.Action.Predicate", "17.Func.Action.Predicate\17.Func.Action.Predicate.csproj", "{BE11C00F-959E-4107-BB4F-1334D1C27975}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.Func.Action.Predicate", "17.Func.Action.Predicate\17.Func.Action.Predicate.csproj", "{BE11C00F-959E-4107-BB4F-1334D1C27975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.ExtensionMethod", "18.ExtensionMethod\18.ExtensionMethod.csproj", "{EA910482-15E8-4194-9550-FAC160C3E70E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.ObjectInitializer", "19.ObjectInitializer\19.ObjectInitializer.csproj", "{382558B6-AF2D-4086-9AC8-C6993BDF1418}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{BE11C00F-959E-4107-BB4F-1334D1C27975}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE11C00F-959E-4107-BB4F-1334D1C27975}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE11C00F-959E-4107-BB4F-1334D1C27975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA910482-15E8-4194-9550-FAC160C3E70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA910482-15E8-4194-9550-FAC160C3E70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA910482-15E8-4194-9550-FAC160C3E70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA910482-15E8-4194-9550-FAC160C3E70E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382558B6-AF2D-4086-9AC8-C6993BDF1418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382558B6-AF2D-4086-9AC8-C6993BDF1418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382558B6-AF2D-4086-9AC8-C6993BDF1418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382558B6-AF2D-4086-9AC8-C6993BDF1418}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
